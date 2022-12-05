@@ -797,7 +797,7 @@
             "source_url": "https://report.actblue.com/"
           }
         ],
-        "notes": "An online donation platform launched in 2004, ActBlue enables individuals to donate to Democratic candidates and campaigns nationwide. Estimates include aggregate annual donations made to political campaigns using ActBlue’s platform. In our November 29, 2022 update, we corrected two data points that were rounded incorrectly. For 2019, we changed $1.05 billion to $1.06 billion, and for 2020, we changed $4.02 billion to $4.03 billion."
+        "notes": "An online donation platform launched in 2004, ActBlue enables individuals to donate to Democratic candidates and campaigns nationwide. Estimates include aggregate annual donations made to political campaigns using ActBlue’s platform. In our November 29, 2022 update, we corrected two data points that were rounded incorrectly. For 2019, we corrected $1.05 billion to $1.06 billion, and for 2020, we corrected $4.02 billion to $4.03 billion."
       }
     ]
   },
@@ -850,7 +850,7 @@
             "source_url": "https://givingusa.org/"
           }
         ],
-        "notes": "Estimates rely on econometric methods developed by the Indiana University Lilly Family School of Philanthropy and tabulation of tax data, economic indicators, and demographics. In our November 29, 2022 updated, we corrected the 2018 data point, which had been rounded incorrectly. We changed $39.72 billion to $39.71 billion."
+        "notes": "Estimates rely on econometric methods developed by the Indiana University Lilly Family School of Philanthropy and tabulation of tax data, economic indicators, and demographics. In our November 29, 2022 update, we corrected the 2018 data point, which had been rounded incorrectly. We corrected $39.72 billion to $39.71 billion."
       },
       {
         "name": "Share of total charitable contributions given through bequests",
@@ -1146,29 +1146,6 @@
           }
         ],
         "notes": "Benevity provides software that facilitates workplace giving and is used by many Fortune 500 companies. Estimates use Benevity’s master database, which includes activities of more than 650 companies, including clients, users of the software, and the community of causes."
-      },
-      {
-        "name": "Aggregate charitable contributions from workplace giving programs",
-        "data": {
-          "unit": "B",
-          "unit_string": "In billions of dollars ($)",
-          "trend_label": "billion",
-          "date_format": "%Y",
-          "significant_figures": "0",
-          "values": [
-            {
-              "date": "2017",
-              "value": "4"
-            }
-          ]
-        },
-        "sources": [
-          {
-            "source": "America’s Charities",
-            "source_url": "https://www.charities.org/news/america%E2%80%99s-charities-releases-groundbreaking-report-%E2%80%9Csnapshot-2017-what-us-employees-think-about"
-          }
-        ],
-        "notes": "Estimates are drawn from a 2017 survey conducted by America’s Charities of 1,586 employees representing 18 industry groups (including education, finance, government, health care, technology, nonprofits, professional services, and consumer products). This is the most comprehensive and recent data point capturing the scale of workplace giving."
       },
       {
         "name": "Total dollars pledged by federal employees through the Combined Federal Campaign",
@@ -1626,10 +1603,6 @@
               "value": "59"
             },
             {
-              "date": "2014",
-              "value": "56"
-            },
-            {
               "date": "2016",
               "value": "53"
             },
@@ -1681,10 +1654,6 @@
               "value": "83"
             },
             {
-              "date": "2014",
-              "value": "56"
-            },
-            {
               "date": "2017",
               "value": "83"
             },
@@ -1704,7 +1673,7 @@
             "source_url": "https://news.gallup.com/poll/388574/charitable-donations-rebound-volunteering-down.aspx"
           }
         ],
-        "notes": "Estimates rely on telephone interviews conducted by pollsters with a random sample of more than 1,000 adults living in all 50 states and the District of Columbia. Respondents were asked separately about donating money and volunteering time to charitable organizations. In our November 29, 2022 update, we corrected the 2008 data point, which we had rounded incorrectly. We changed it from 83 percent to 82 percent. We also removed the 2014 data point, which was not included in the source."
+        "notes": "Estimates rely on telephone interviews conducted by pollsters with a random sample of more than 1,000 adults living in all 50 states and the District of Columbia. Respondents were asked separately about donating money and volunteering time to charitable organizations. In our November 29, 2022 update, we corrected the 2008 data point, which we had rounded incorrectly. We corrected it from 83 percent to 82 percent. We also removed the 2014 data point, which was not included in the source."
       },
       {
         "name": "Percentage change in total number of donors from previous year",
@@ -1748,7 +1717,7 @@
         "sources": [
           {
             "source": "AFP/Fundraising Effectiveness Project",
-            "source_url": "https://afpglobal.org/fepreportsdownloadcenter"
+            "source_url": "https://afpglobal.org/FundraisingEffectivenessProject"
           }
         ],
         "notes": "Estimates of total donors were calculated by the Fundraising Effectiveness Project using anonymized giving transaction data from a variety of donor software, such as Bloomerang, DonorPerfect, and NeonCRM. Most recent complete annual calculations (2021) are drawn from a random representative sample of 9,652 nonprofit organizations."
@@ -1787,7 +1756,7 @@
         "sources": [
           {
             "source": "AFP/Fundraising Effectiveness Project",
-            "source_url": "https://afpglobal.org/fepreportsdownloadcenter"
+            "source_url": "https://afpglobal.org/FundraisingEffectivenessProject"
           }
         ],
         "notes": "Estimates are provided by the AFP/Fundraising Effectiveness Project."
@@ -1820,7 +1789,7 @@
         "sources": [
           {
             "source": "ioby",
-            "source_url": ""
+            "source_url": "https://ioby.org/"
           }
         ],
         "notes": "Estimates are pulled from raw data provided by ioby, a crowdfunding platform. Because the 2020 estimate only contains data from March through December of that year, the comparison with 2021 is incomplete, but we include it to contextualize change over time. The totals do not include matched contributions made by ioby."
@@ -1874,23 +1843,23 @@
           "unit": "B",
           "unit_string": "In billions of dollars ($)",
           "trend_label": "billion",
-          "date_format": "%b %Y",
+          "date_format": "%Y",
           "significant_figures": "0",
           "values": [
             {
-              "date": "Dec 2017",
+              "date": "2017",
               "value": "5"
             },
             {
-              "date": "Dec 2019",
+              "date": "2019",
               "value": "9"
             },
             {
-              "date": "Jul 2020",
+              "date": "2020",
               "value": "10"
             },
             {
-              "date": "Jul 2021",
+              "date": "2021",
               "value": "15"
             }
           ]
@@ -2026,6 +1995,10 @@
             {
               "date": "2021",
               "value": "2.7"
+            },
+            {
+              "date": "2022",
+              "value": "3.1"
             }
           ]
         },
