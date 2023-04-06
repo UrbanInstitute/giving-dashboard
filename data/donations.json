@@ -242,6 +242,10 @@
             {
               "date": "2019",
               "value": "39.3"
+            },
+            {
+              "date": "2020",
+              "value": "41.9"
             }
           ]
         },
@@ -289,6 +293,10 @@
             {
               "date": "2019",
               "value": "74.799"
+            },
+            {
+              "date": "2020",
+              "value": "85.720"
             }
           ]
         },
@@ -307,7 +315,7 @@
     "description": "Volunteering is a core way individuals express generosity. Much of the data on volunteering registers how individuals help tax-exempt nonprofit institutions, but volunteers can also assist informal organizations and associations.",
     "measures": [
       {
-        "name": "Share of Americans who volunteer",
+        "name": "Share of Americans who volunteer (2002–2015)",
         "data": {
           "unit": "%",
           "unit_string": "",
@@ -379,10 +387,10 @@
             "source_url": "https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-volunteer.html"
           }
         ],
-        "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. This supplement was administered by the Bureau of Labor Statistics from 2002 to 2015 and since 2017 has been administered by the Corporation for National and Community Service. Only data prior to the change are presented here. The count of volunteers only includes people who volunteered through or for an organization. The figures do not include people who volunteered in a more informal manner."
+        "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. This supplement was administered by the Bureau of Labor Statistics from 2002 to 2015 and since 2017 has been administered by the Corporation for National and Community Service. Only data prior to the change are presented here; data after the change are presented in the figures below. The count of volunteers only includes people who volunteered through or for an organization. The figures do not include people who volunteered in a more informal manner."
       },
       {
-        "name": "Total hours volunteered",
+        "name": "Total hours volunteered (2002–2015)",
         "data": {
           "unit": "B",
           "unit_string": "Billions of hours",
@@ -454,7 +462,69 @@
             "source_url": "https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-volunteer.html"
           }
         ],
-        "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. This supplement was administered by the Bureau of Labor Statistics from 2002 to 2015 and since 2017 has been administered by the Corporation for National and Community Service. Only data prior to the change are presented here. The count of volunteers only includes people who volunteered through or for an organization. The figures do not include people who volunteered in a more informal manner. In our November 29, 2022 update, we corrected two transposed numbers in the 2015 data point, changing 8.42987B to 8.49287B."
+        "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. This supplement was administered by the Bureau of Labor Statistics from 2002 to 2015 and since 2017 has been administered by the Corporation for National and Community Service. Only data prior to the change are presented here; data after the change are presented in the figures below. The count of volunteers only includes people who volunteered through or for an organization. The figures do not include people who volunteered in a more informal manner. In our November 29, 2022 update, we corrected two transposed numbers in the 2015 data point, changing 8.42987B to 8.49287B."
+      },
+      {
+        "name": "Share of Americans who volunteer (2017–2021)",
+        "data": {
+          "unit": "%",
+          "unit_string": "",
+          "trend_label": "percent",
+          "date_format": "%Y",
+          "significant_figures": "1",
+          "values": [
+            {
+              "date": "2017",
+              "value": "30.3"
+            },
+            {
+              "date": "2019",
+              "value": "30.0"
+            },
+            {
+              "date": "2021",
+              "value": "23.2"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "source": "Current Population Survey: Volunteering and Civic Life Supplement",
+            "source_url": "https://americorps.gov/about/our-impact/volunteering-civic-life"
+          }
+        ],
+        "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. This supplement was administered by the Bureau of Labor Statistics from 2002 to 2015 and since 2017 has been administered by the Corporation for National and Community Service. Only data after the change are presented here; data prior to the change are presented in the figures above. The count of volunteers only includes people who volunteered for an organization or association. The figures do not include people who volunteered in a more informal manner."
+      },
+      {
+        "name": "Total hours volunteered (2017–2021)",
+        "data": {
+          "unit": "B",
+          "unit_string": "Billions of hours",
+          "trend_label": "hours",
+          "date_format": "%Y",
+          "significant_figures": "1",
+          "values": [
+            {
+              "date": "2017",
+              "value": "6.9"
+            },
+            {
+              "date": "2019",
+              "value": "5.8"
+            },
+            {
+              "date": "2021",
+              "value": "4.1"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "source": "Current Population Survey: Volunteering and Civic Life Supplement",
+            "source_url": "https://americorps.gov/about/our-impact/volunteering-civic-life"
+          }
+        ],
+        "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. This supplement was administered by the Bureau of Labor Statistics from 2002 to 2015 and since 2017 has been administered by the Corporation for National and Community Service. Only data after the change are presented here; data prior to the change are presented in the figures above. The count of volunteers only includes people who volunteered for an organization or association. The figures do not include people who volunteered in a more informal manner. The 2017 estimate comes from adding the total hours volunteered in each state and the District of Columbia."
       },
       {
         "name": "Share of Americans who volunteered in the past year",
@@ -603,6 +673,10 @@
             {
               "date": "2021",
               "value": "3"
+            },
+            {
+              "date": "2022",
+              "value": "2.2"
             }
           ]
         },
@@ -612,7 +686,7 @@
             "source_url": "https://www.fidelitycharitable.org/insights.html"
           }
         ],
-        "notes": "Estimates are calculated using data from 174,592 giving accounts in Fidelity Charitable’s internal reporting database."
+        "notes": "Estimates are calculated using data from giving accounts in Fidelity Charitable’s internal reporting database."
       },
       {
         "name": "Total amount of recoverable grants made by Fidelity Charitable donor-advised funds to charities",
@@ -634,6 +708,10 @@
             {
               "date": "2021",
               "value": "11.7"
+            },
+            {
+              "date": "2022",
+              "value": "11.8"
             }
           ]
         },
@@ -643,7 +721,7 @@
             "source_url": "https://www.fidelitycharitable.org/insights.html"
           }
         ],
-        "notes": "Recoverable grants are donations that can be repaid under some circumstances. Estimates are calculated using data from 174,592 giving accounts in Fidelity Charitable’s internal reporting database."
+        "notes": "Recoverable grants are donations that can be repaid under some circumstances. Estimates are calculated using data from giving accounts in Fidelity Charitable’s internal reporting database."
       }
     ]
   },
@@ -652,7 +730,7 @@
     "description": "Traditionally, giving to political campaigns has not been considered a form of charitable giving. But the lines between political and charitable giving are becoming increasingly blurred through giving vehicles such as limited liability companies. Donations to party-focused organizations such as WinRed or ActBlue as well as donations to individual candidates and campaigns constitute political giving. (Gifts to 501(c)(4)s and political action committees are not included in this summary.)",
     "measures": [
       {
-        "name": "Total donors that gave over $200 to a political campaign",
+        "name": "Total donors that gave over $200 to a federal political campaign",
         "data": {
           "unit": "M",
           "unit_string": "",
@@ -687,19 +765,23 @@
             {
               "date": "2020",
               "value": "4.705128"
+            },
+            {
+              "date": "2022",
+              "value": "1.724441"
             }
           ]
         },
         "sources": [
           {
             "source": "OpenSecrets",
-            "source_url": "https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2020&display=A"
+            "source_url": "https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2022&display=A"
           }
         ],
-        "notes": "Estimates are taken from the Federal Election Commission, aggregated every calendar year (January—December). Fluctuations in political donations year to year are partially attributable to election cycles (e.g., presidential election years versus off-year elections)."
+        "notes": "Estimates are taken from the Federal Election Commission, aggregated every calendar year (January—December). Fluctuations in political donations year to year are partially attributable to election cycles (e.g., presidential election years versus off-year elections). In our April 2023 update, we added “federal” to the chart title for clarity."
       },
       {
-        "name": "Total money contributed to political campaigns via donations over $200",
+        "name": "Total money contributed to federal political campaigns via donations over $200",
         "data": {
           "unit": "B",
           "unit_string": "In billions of dollars ($)",
@@ -734,16 +816,20 @@
             {
               "date": "2020",
               "value": "9.958511657"
+            },
+            {
+              "date": "2022",
+              "value": "5.606652228"
             }
           ]
         },
         "sources": [
           {
             "source": "OpenSecrets",
-            "source_url": "https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2020&display=A"
+            "source_url": "https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2022&display=A"
           }
         ],
-        "notes": "Estimates are taken from the Federal Election Commission, aggregated every calendar year (January—December). Fluctuations in political donations year to year are partially attributable to election cycles (e.g., presidential election years versus off-year elections)."
+        "notes": "Estimates are taken from the Federal Election Commission, aggregated every calendar year (January—December). Fluctuations in political donations year to year are partially attributable to election cycles (e.g., presidential election years versus off-year elections). In our April 2023 update, we added “federal” to the chart title for clarity."
       },
       {
         "name": "Money donated to WinRed",
@@ -761,6 +847,10 @@
             {
               "date": "2020",
               "value": "2.2"
+            },
+            {
+              "date": "2022",
+              "value": "1.2"
             }
           ]
         },
@@ -933,6 +1023,10 @@
             {
               "date": "2020",
               "value": "69.9"
+            },
+            {
+              "date": "2021",
+              "value": "72.7"
             }
           ]
         },
@@ -1072,6 +1166,10 @@
             {
               "date": "2021",
               "value": "66"
+            },
+            {
+              "date": "2022",
+              "value": "57"
             }
           ]
         },
@@ -1081,7 +1179,7 @@
             "source_url": "https://www.fidelitycharitable.org/insights.html"
           }
         ],
-        "notes": "Estimates are calculated using data from an estimated 174,592 giving accounts in Fidelity Charitable’s internal reporting database. Noncash assets include publicly traded securities (stocks, bonds, and mutual funds) and non–publicly traded assets (private stock, restricted stock, and limited partnership interests)."
+        "notes": "Estimates are calculated using data from giving accounts in Fidelity Charitable’s internal reporting database. Noncash assets include publicly traded securities (stocks, bonds, and mutual funds) and non–publicly traded assets (private stock, restricted stock, and limited partnership interests)."
       },
       {
         "name": "Total dollars distributed to nonprofits from DAFs at community foundations",
@@ -1323,7 +1421,7 @@
         "notes": "Estimates are drawn from financial analysis of Blackbaud clients. The latest study was conducted from January to December 2021 and included 4,535 nonprofit organizations. The analysis does not include the unfulfilled proportions of pledged gifts or recurring gifts processed offline."
       },
       {
-        "name": "Percentage change in number of online donations",
+        "name": "Change in nonprofit revenue from online donations",
         "data": {
           "unit": "%",
           "unit_string": "",
@@ -1333,48 +1431,37 @@
           "values": [
             {
               "date": "2016",
-              "value": "8.6"
+              "value": "7.9"
             },
             {
               "date": "2017",
-              "value": "4.8"
+              "value": "12.1"
+            },
+            {
+              "date": "2018",
+              "value": "1.2"
+            },
+            {
+              "date": "2019",
+              "value": "6.8"
+            },
+            {
+              "date": "2020",
+              "value": "20.7"
+            },
+            {
+              "date": "2021",
+              "value": "8.9"
             }
           ]
         },
         "sources": [
           {
-            "source": "Mastercard Center for Inclusive Growth",
-            "source_url": "https://www.mastercardcenter.org/insights/highlights-techsoup-webinar"
+            "source": "Blackbaud",
+            "source_url": "https://institute.blackbaud.com/charitable-giving-report"
           }
         ],
-        "notes": "These estimates use anonymized and aggregated Mastercard transaction data to provide an analysis of current and historical donation trends."
-      },
-      {
-        "name": "Percentage change in individual donations made through electronic payments",
-        "data": {
-          "unit": "%",
-          "unit_string": "",
-          "trend_label": "percent",
-          "date_format": "%Y",
-          "significant_figures": "1",
-          "values": [
-            {
-              "date": "2016",
-              "value": "5.9"
-            },
-            {
-              "date": "2017",
-              "value": "4.4"
-            }
-          ]
-        },
-        "sources": [
-          {
-            "source": "Mastercard Center for Inclusive Growth",
-            "source_url": "https://www.mastercardcenter.org/insights/dynamics-charitable-giving"
-          }
-        ],
-        "notes": "These estimates use anonymized and aggregated Mastercard transaction data to provide an analysis of current and historical donation trends."
+        "notes": "Estimates are drawn from financial analysis of Blackbaud clients. The latest study was conducted from January to December 2021 and included 4,535 nonprofit organizations. The analysis does not include the unfulfilled proportions of pledged gifts or recurring gifts processed offline."
       }
     ]
   },
@@ -1457,31 +1544,47 @@
         "notes": "Started in 2017, the rideshare company Lyft’s Round Up and Donate program enables passengers to donate to one of 20 pre-selected charities. These estimates provided by Lyft show how much their riders have donated to Lyft’s sponsored charitable organizations since the program began."
       },
       {
-        "name": "Total donated to charities from AmazonSmile",
+        "name": "Total donated to charities from eBay for Charity",
         "data": {
           "unit": "M",
           "unit_string": "In millions of dollars ($)",
           "trend_label": "million",
-          "date_format": "%b %Y",
+          "date_format": "%Y",
           "significant_figures": "0",
           "values": [
             {
-              "date": "Feb 2020",
-              "value": "169"
+              "date": "2017",
+              "value": "84"
             },
             {
-              "date": "Jun 2021",
-              "value": "293"
+              "date": "2018",
+              "value": "102"
+            },
+            {
+              "date": "2019",
+              "value": "112"
+            },
+            {
+              "date": "2020",
+              "value": "123"
+            },
+            {
+              "date": "2021",
+              "value": "145"
+            },
+            {
+              "date": "2022",
+              "value": "163"
             }
           ]
         },
         "sources": [
           {
-            "source": "Amazon Sustainability",
-            "source_url": "https://sustainability.aboutamazon.com/about/report-builder"
+            "source": "eBay for Charity",
+            "source_url": "https://www.ebayforcharity.org"
           }
         ],
-        "notes": "Estimates are drawn from aggregated donations made via AmazonSmile, a program where shoppers can buy products through smile.amazon.com and choose from over 1 million eligible 501(c)(3) public charitable organizations to which Amazon will donate 0.5 percent of eligible purchases."
+        "notes": "Estimates are drawn from aggregated donations made via eBay for Charity, a program where buyers and sellers can donate to enrolled charities. Buyers can donate directly or at checkout, and sellers can donate part or all of their sales."
       }
     ]
   },
@@ -1521,6 +1624,10 @@
             {
               "date": "2021",
               "value": "331"
+            },
+            {
+              "date": "2022",
+              "value": "38"
             }
           ]
         },
@@ -1530,7 +1637,7 @@
             "source_url": "https://www.fidelitycharitable.org/insights.html"
           }
         ],
-        "notes": "Estimates are calculated using data from 174,592 giving accounts in Fidelity Charitable’s internal reporting database."
+        "notes": "Estimates are calculated using data from giving accounts in Fidelity Charitable’s internal reporting database."
       },
       {
         "name": "Cryptocurrency charitable contributions to the Giving Block",
@@ -1750,6 +1857,10 @@
             {
               "date": "2020",
               "value": "43.56"
+            },
+            {
+              "date": "2021",
+              "value": "44.1"
             }
           ]
         },
@@ -1820,6 +1931,10 @@
             {
               "date": "Sep 2022",
               "value": "3.550"
+            },
+            {
+              "date": "Mar 2023",
+              "value": "3.794"
             }
           ]
         },
@@ -1861,13 +1976,17 @@
             {
               "date": "2021",
               "value": "15"
+            },
+            {
+              "date": "2022",
+              "value": "25"
             }
           ]
         },
         "sources": [
           {
             "source": "GoFundMe",
-            "source_url": "https://www.gofundme.com/c/gofundme-giving-report-2021"
+            "source_url": "https://www.gofundme.com/c/gofundme-2022-year-in-help"
           }
         ],
         "notes": "GoFundMe enables individuals to set up crowdfunding campaigns for any purpose. Estimates are sourced from GoFundMe public reports that share estimates of money raised across all campaigns and aggregate all donations made to crowdfunding campaigns across the platform since it was founded in 2010. GoFundMe does not release annual figures."
@@ -1958,6 +2077,10 @@
             {
               "date": "2020",
               "value": "157.631539"
+            },
+            {
+              "date": "2021",
+              "value": "186.858690"
             }
           ]
         },
@@ -1973,7 +2096,7 @@
   },
   {
     "name": "Giving days",
-    "description": "Giving days, which are organized efforts to mobilize large-scale donations, often use social media to motivate potential donors. The largest giving day, GivingTuesday (the Tuesday after Thanksgiving), was launched in the United States in 2012 and is now hosted in more than 70 countries worldwide.",
+    "description": "Giving days, which are organized efforts to mobilize large-scale donations, often use social media to motivate potential donors. The largest giving day, GivingTuesday (the Tuesday after Thanksgiving), was launched in the United States in 2012 and is now hosted in more than 80 countries worldwide.",
     "measures": [
       {
         "name": "Total dollars donated in the United States on GivingTuesday",
@@ -2030,6 +2153,18 @@
             {
               "date": "2019",
               "value": "4.3"
+            },
+            {
+              "date": "2020",
+              "value": "5.6"
+            },
+            {
+              "date": "2021",
+              "value": "6.0"
+            },
+            {
+              "date": "2022",
+              "value": "6.4"
             }
           ]
         },
