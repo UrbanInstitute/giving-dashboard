@@ -30,20 +30,28 @@
             },
             {
               "date": "2019",
-              "value": "436.99"
+              "value": "434.03"
             },
             {
               "date": "2020",
-              "value": "486.26"
+              "value": "478.94"
             },
             {
               "date": "2021",
-              "value": "516.65"
+              "value": "556.14"
             },
             {
               "date": "2022",
-              "value": "499.33"
-            }
+              "value": "545.08"
+            },
+            {
+              "date": "2023",
+              "value": "557.23"
+            },
+            {
+              "date": "2024",
+              "value": "592.50"
+            }            
           ]
         },
         "sources": [
@@ -87,20 +95,28 @@
             },
             {
               "date": "2019",
-              "value": "69"
+              "value": "70"
             },
             {
               "date": "2020",
-              "value": "66"
+              "value": "68"
             },
             {
               "date": "2021",
-              "value": "66"
+              "value": "70"
             },
             {
               "date": "2022",
-              "value": "64"
-            }
+              "value": "65"
+            },
+            {
+              "date": "2023",
+              "value": "65"
+            },
+            {
+              "date": "2024",
+              "value": "66"
+            }            
           ]
         },
         "sources": [
@@ -138,19 +154,27 @@
             },
             {
               "date": "2019",
-              "value": "300.94"
+              "value": "302.26"
             },
             {
               "date": "2020",
-              "value": "322.98"
+              "value": "324.25"
             },
             {
               "date": "2021",
-              "value": "340.97"
+              "value": "390.64"
             },
             {
               "date": "2022",
-              "value": "319.04"
+              "value": "355.51"
+            },
+            {
+              "date": "2023",
+              "value": "362.71"
+            },
+            {
+              "date": "2024",
+              "value": "392.45"
             }
           ]
         },
@@ -174,6 +198,10 @@
             {
               "date": "2020",
               "value": "85"
+            },
+            {
+              "date": "2022",
+              "value": "84.5"
             }
           ]
         },
@@ -205,16 +233,24 @@
             {
               "date": "2022",
               "value": "26"
+            },
+            {
+              "date": "2023",
+              "value": "23.7"
+            },
+            {
+              "date": "2024",
+              "value": "22.4"
             }
           ]
         },
         "sources": [
           {
-            "source": "GivingTuesday's Giving Lab",
-            "source_url": "https://www.givingtuesday.org/insights/"
+            "source": "GivingTuesday Data Commons",
+            "source_url": "https://www.givingtuesday.org/data-commons"
           }
         ],
-        "notes": "Estimates are based on GivingTuesday’s Growth in Giving dataset, a longitudinal dataset of donation transactions by individuals in the United States aggregated from many sources (including customer relationship management databases and other giving platforms). Transactions included in this dataset are limited to those made to 501(c)(3)s with no more than $25 million in contributions and with data from three consecutive years."
+        "notes": "Estimates are based on GivingTuesday’s Growth in Giving dataset, a longitudinal dataset of donation transactions by individuals in the United States aggregated from many sources (including customer relationship management databases and other giving platforms). Transactions included in this dataset are limited to those made to 501(c)(3)s with no more than $25 million in contributions and with data from three consecutive years. In January 2024, we updated the data source from the GivingTuesday Giving Lab to the GivingTuesday Data Commons."
       },
       {
         "name": "Percentage change in total dollars donated by individuals from previous year",
@@ -256,6 +292,14 @@
             {
               "date": "2022",
               "value": "-1.7"
+            },
+            {
+              "date": "2023",
+              "value": "-2.8"
+            },
+            {
+              "date": "2024",
+              "value": "3.5"
             }
           ]
         },
@@ -265,7 +309,7 @@
             "source_url": "https://afpglobal.org/fepreportsdownloadcenter"
           }
         ],
-        "notes": "Estimates of total donors were calculated by the Fundraising Effectiveness Project using anonymized giving transaction data from a variety of donor software, such as Bloomerang, DonorPerfect, and Neon CRM. The most recent complete annual calculations (2022) are drawn from a random representative sample of 8,816 nonprofit organizations."
+        "notes": "Estimates of total donors were calculated by the Fundraising Effectiveness Project using anonymized giving transaction data from a variety of donor software, such as Bloomerang, DonorPerfect, and Neon CRM. The most recent complete annual calculations (2023) are drawn from a random representative sample of 8,103 nonprofit organizations."
       }
     ]
   },
@@ -313,6 +357,14 @@
             {
               "date": "2020",
               "value": "41.9"
+            },
+            {
+              "date": "2021",
+              "value": "46.1"
+            },
+            {
+              "date": "2022",
+              "value": "53.9"
             }
           ]
         },
@@ -364,6 +416,14 @@
             {
               "date": "2020",
               "value": "85.720"
+            },
+            {
+              "date": "2021",
+              "value": "121.375"
+            },
+            {
+              "date": "2022",
+              "value": "119.964"
             }
           ]
         },
@@ -532,7 +592,7 @@
         "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. This supplement was administered by the Bureau of Labor Statistics from 2002 to 2015 and since 2017 has been administered by the Corporation for National and Community Service. Only data prior to the change are presented here; data after the change are presented in the figures below. The count of volunteers only includes people who volunteered through or for an organization. The figures do not include people who volunteered in a more informal manner. In our November 29, 2022 update, we corrected two transposed numbers in the 2015 data point, changing 8.42987B to 8.49287B."
       },
       {
-        "name": "Share of Americans who volunteer (2017–2021)",
+        "name": "Share of Americans who volunteer (2017–2023)",
         "data": {
           "unit": "%",
           "unit_string": "",
@@ -551,6 +611,10 @@
             {
               "date": "2021",
               "value": "23.2"
+            },
+            {
+              "date": "2023",
+              "value": "28.3"
             }
           ]
         },
@@ -563,7 +627,7 @@
         "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. This supplement was administered by the Bureau of Labor Statistics from 2002 to 2015 and since 2017 has been administered by the Corporation for National and Community Service. Only data after the change are presented here; data prior to the change are presented in the figures above. The count of volunteers only includes people who volunteered for an organization or association. The figures do not include people who volunteered in a more informal manner."
       },
       {
-        "name": "Total hours volunteered (2017–2021)",
+        "name": "Total hours volunteered (2017–2023)",
         "data": {
           "unit": "B",
           "unit_string": "In billions of hours",
@@ -582,6 +646,10 @@
             {
               "date": "2021",
               "value": "4.1"
+            },
+            {
+              "date": "2023",
+              "value": "5.0"
             }
           ]
         },
@@ -649,6 +717,41 @@
         "notes": "Estimates rely on telephone interviews conducted by pollsters with a random sample of more than 1,000 adults living in all 50 states and the District of Columbia. Respondents were asked separately about donating money and volunteering time to charitable organizations."
       },
       {
+        "name": "Share of Americans who gave time in the past year",
+        "data": {
+          "unit": "%",
+          "unit_string": "",
+          "trend_label": "percent",
+          "date_format": "%Y",
+          "significant_figures": "0",
+          "values": [
+            {
+              "date": "2021",
+              "value": "36"
+            },
+            {
+              "date": "2022",
+              "value": "41"
+            },
+            {
+              "date": "2023",
+              "value": "44"
+            },
+            {
+              "date": "2024",
+              "value": "41"
+            }            
+          ]
+        },
+        "sources": [
+          {
+            "source": "GivingTuesday Data Commons",
+            "source_url": "https://www.givingtuesday.org/data-commons"
+          }
+        ],
+        "notes": "Estimates are based on GivingTuesday’s Global Omnibus Survey, an annual online survey of giving behaviors run in seven countries (including the US). The sample size of 1,000 is weighted by age, gender, and US region of residence. The data capture giving to a range of recipients, including (1) registered charitable or nonprofit organizations, (2) organized and structured but unregistered entities, and (3) unstructured community groups and individuals. In January 2024, we updated the data source from the GivingTuesday Giving Lab to the GivingTuesday Data Commons."
+      },
+      {
         "name": "Number of blood donors in the United States",
         "data": {
           "unit": "M",
@@ -668,6 +771,10 @@
             {
               "date": "2019",
               "value": "7.316"
+            },
+            {
+              "date": "2021",
+              "value": "6.545"
             }
           ]
         },
@@ -690,27 +797,35 @@
           "values": [
             {
               "date": "2017",
-              "value": "6.181"
+              "value": "6.182"
             },
             {
               "date": "2018",
-              "value": "6.845"
+              "value": "6.850"
             },
             {
               "date": "2019",
-              "value": "7.389"
+              "value": "7.396"
             },
             {
               "date": "2020",
-              "value": "5.725"
+              "value": "5.726"
             },
             {
               "date": "2021",
-              "value": "6.539"
+              "value": "6.542"
             },
             {
               "date": "2022",
-              "value": "6.468"
+              "value": "6.466"
+            },
+            {
+              "date": "2023",
+              "value": "6.955"
+            },
+            {
+              "date": "2024",
+              "value": "7.031"
             }
           ]
         },
@@ -720,7 +835,7 @@
             "source_url": "https://optn.transplant.hrsa.gov/data/view-data-reports/national-data/#"
           }
         ],
-        "notes": "The Organ Procurement and Transplantation Network connects professionals within the US organ donation and transplantation system and maintains a national organ matching registry. Data presented in this figure represent the number of people in the United States who donated organs while living. Donors may give more than one organ."
+        "notes": "The Organ Procurement and Transplantation Network connects professionals within the US organ donation and transplantation system and maintains a national organ matching registry. Data presented in this figure represent the number of people in the United States who donated organs while living. Donors may give more than one organ. We update past data for this indicator annually, because the Organ Procurement and Transplantation Network revises its numbers as new data are submitted or old data are corrected."
       },
       {
         "name": "Share of Americans who engage in informal helping",
@@ -742,6 +857,10 @@
             {
               "date": "2021",
               "value": "50.9"
+            },
+            {
+              "date": "2023",
+              "value": "54.3"
             }
           ]
         },
@@ -752,6 +871,84 @@
           }
         ],
         "notes": "Estimates are pulled from the Current Population Survey Volunteering and Civic Life Supplement. The Corporation for National and Community Service, which administers that supplement, defines informal helping as “assisting others outside of an organizational context, including doing favors for neighbors.”"
+      },
+      {
+        "name": "Corporate volunteer hours tracked through Benevity",
+        "data": {
+          "unit": "M",
+          "unit_string": "In millions of hours",
+          "trend_label": "million",
+          "date_format": "%Y",
+          "significant_figures": "0",
+          "values": [
+            {
+              "date": "2019",
+              "value": "8.6"
+            },
+            {
+              "date": "2020",
+              "value": "6.9"
+            },
+            {
+              "date": "2021",
+              "value": "8.9"
+            },
+            {
+              "date": "2022",
+              "value": "14.3"
+            },
+            {
+              "date": "2023",
+              "value": "20.2"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "source": "Benevity ",
+            "source_url": "https://benevity.com/impactlabs"
+          }
+        ],
+        "notes": "Benevity provides software that facilitates workplace giving and is used by many Fortune 500 companies. Estimates use Benevity’s master database, which includes activities of more than 650 companies, including clients, users of the software, and the community of causes."
+      },
+      {
+        "name": "Number of active corporate volunteers tracked through Benevity",
+        "data": {
+          "unit": "M",
+          "unit_string": "In millions of volunteers",
+          "trend_label": "million",
+          "date_format": "%Y",
+          "significant_figures": "0",
+          "values": [
+            {
+              "date": "2019",
+              "value": "0.524"
+            },
+            {
+              "date": "2020",
+              "value": "0.363"
+            },
+            {
+              "date": "2021",
+              "value": "0.468"
+            },
+            {
+              "date": "2022",
+              "value": "0.894"
+            },
+            {
+              "date": "2023",
+              "value": "1.400"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "source": "Benevity ",
+            "source_url": "https://benevity.com/impactlabs"
+          }
+        ],
+        "notes": "Benevity provides software that facilitates workplace giving and is used by many Fortune 500 companies. Estimates use Benevity’s master database, which includes activities of more than 650 companies, including clients, users of the software, and the community of causes."
       }
     ]
   },
@@ -775,6 +972,10 @@
             {
               "date": "2020",
               "value": "13.2"
+            },
+            {
+              "date": "2022",
+              "value": "8.8"
             }
           ]
         },
@@ -784,7 +985,7 @@
             "source_url": "https://www.privatebank.bankofamerica.com/articles/2021-bank-of-america-study-how-affluent-households-gave-back-in-2020.html"
           }
         ],
-        "notes": "Estimates are from 2021, are based on a nationally representative random sample of 1,626 high-net-worth households, and include in-depth analysis based on age, gender, race, and sexual identity by Indiana University’s Lilly Family School of Philanthropy. High-net-worth households are defined as those with a net worth of at least $1 million and/or with an annual income of at least $200,000."
+        "notes": "Estimates are based on a nationally representative random sample of high-net-worth households and include in-depth analysis based on age, gender, race, and sexual identity by Indiana University’s Lilly Family School of Philanthropy. High-net-worth households are defined as those with a net worth of at least $1 million and/or with an annual income of at least $200,000."
       },
       {
         "name": "Total donor-advised fund assets in impact investment pools at Fidelity Charitable",
@@ -809,7 +1010,7 @@
             },
             {
               "date": "2020",
-              "value": "1.8"
+              "value": "2.3"
             },
             {
               "date": "2021",
@@ -818,6 +1019,14 @@
             {
               "date": "2022",
               "value": "2.2"
+            },
+            {
+              "date": "2023",
+              "value": "2.7"
+            },
+            {
+              "date": "2024",
+              "value": "4.6"
             }
           ]
         },
@@ -827,7 +1036,7 @@
             "source_url": "https://www.fidelitycharitable.org/insights.html"
           }
         ],
-        "notes": "Estimates are calculated using data from giving accounts in Fidelity Charitable’s internal reporting database."
+        "notes": "Estimates are calculated using data from giving accounts in Fidelity Charitable’s internal reporting database. We update past data for this indicator as Fidelity Charitable updates its historical data."
       },
       {
         "name": "Total amount of recoverable grants made by Fidelity Charitable donor-advised funds to charities",
@@ -844,7 +1053,7 @@
             },
             {
               "date": "2020",
-              "value": "15.4"
+              "value": "13.0"
             },
             {
               "date": "2021",
@@ -853,6 +1062,14 @@
             {
               "date": "2022",
               "value": "11.8"
+            },
+            {
+              "date": "2023",
+              "value": "10"
+            },
+            {
+              "date": "2024",
+              "value": "10.8"
             }
           ]
         },
@@ -862,7 +1079,7 @@
             "source_url": "https://www.fidelitycharitable.org/insights.html"
           }
         ],
-        "notes": "Recoverable grants are donations that can be repaid under some circumstances. Estimates are calculated using data from giving accounts in Fidelity Charitable’s internal reporting database."
+        "notes": "Recoverable grants are donations that can be repaid under some circumstances. Estimates are calculated using data from giving accounts in Fidelity Charitable’s internal reporting database. We update past data for this indicator as Fidelity Charitable updates its historical data."
       }
     ]
   },
@@ -910,13 +1127,17 @@
             {
               "date": "2022",
               "value": "1.724441"
+            },
+            {
+              "date": "2024",
+              "value": "3.442959"
             }
           ]
         },
         "sources": [
           {
             "source": "OpenSecrets",
-            "source_url": "https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2022&display=A"
+            "source_url": "https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2024&display=A"
           }
         ],
         "notes": "Estimates are taken from the Federal Election Commission, aggregated every calendar year (January—December). Fluctuations in political donations year to year are partially attributable to election cycles (e.g., presidential election years versus off-year elections). In our April 2023 update, we added “federal” to the chart title for clarity."
@@ -961,13 +1182,17 @@
             {
               "date": "2022",
               "value": "5.606652228"
+            },
+            {
+              "date": "2024",
+              "value": "10.222355602"
             }
           ]
         },
         "sources": [
           {
             "source": "OpenSecrets",
-            "source_url": "https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2022&display=A"
+            "source_url": "https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2024&display=A"
           }
         ],
         "notes": "Estimates are taken from the Federal Election Commission, aggregated every calendar year (January—December). Fluctuations in political donations year to year are partially attributable to election cycles (e.g., presidential election years versus off-year elections). In our April 2023 update, we added “federal” to the chart title for clarity."
@@ -992,6 +1217,10 @@
             {
               "date": "2022",
               "value": "1.2"
+            },
+            {
+              "date": "2024",
+              "value": "1.8"
             }
           ]
         },
@@ -1027,6 +1256,10 @@
             {
               "date": "2022",
               "value": "2.20"
+            },
+            {
+              "date": "2023",
+              "value": "1.13"
             }
           ]
         },
@@ -1055,15 +1288,15 @@
           "values": [
             {
               "date": "2015",
-              "value": "35.63"
+              "value": "35.14"
             },
             {
               "date": "2016",
-              "value": "34.62"
+              "value": "34.46"
             },
             {
               "date": "2017",
-              "value": "38.12"
+              "value": "38.03"
             },
             {
               "date": "2018",
@@ -1071,19 +1304,27 @@
             },
             {
               "date": "2019",
-              "value": "38.03"
+              "value": "34.61"
             },
             {
               "date": "2020",
-              "value": "47.21"
+              "value": "45.22"
             },
             {
               "date": "2021",
-              "value": "44.58"
+              "value": "42.43"
             },
             {
               "date": "2022",
-              "value": "45.60"
+              "value": "51.19"
+            },
+            {
+              "date": "2023",
+              "value": "46.60"
+            },
+            {
+              "date": "2024",
+              "value": "45.84"
             }
           ]
         },
@@ -1106,7 +1347,7 @@
           "values": [
             {
               "date": "2015",
-              "value": "10"
+              "value": "9"
             },
             {
               "date": "2016",
@@ -1122,19 +1363,27 @@
             },
             {
               "date": "2019",
-              "value": "9"
+              "value": "8"
             },
             {
               "date": "2020",
-              "value": "10"
+              "value": "9"
             },
             {
               "date": "2021",
-              "value": "9"
+              "value": "8"
             },
             {
               "date": "2022",
               "value": "9"
+            },
+            {
+              "date": "2023",
+              "value": "8"
+            },
+            {
+              "date": "2024",
+              "value": "8"
             }
           ]
         },
@@ -1188,6 +1437,14 @@
             {
               "date": "2022",
               "value": "79.2"
+            },
+            {
+              "date": "2023",
+              "value": "93.0"
+            },
+            {
+              "date": "2024",
+              "value": "98.4"
             }
           ]
         },
@@ -1224,19 +1481,27 @@
             },
             {
               "date": "2018",
-              "value": "36.44"
+              "value": "36.70"
             },
             {
               "date": "2019",
-              "value": "41.01"
+              "value": "41.45"
             },
             {
               "date": "2020",
-              "value": "49.58"
+              "value": "48.95"
             },
             {
               "date": "2021",
-              "value": "72.67"
+              "value": "77.09"
+            },
+            {
+              "date": "2022",
+              "value": "75.94"
+            },
+            {
+              "date": "2023",
+              "value": "59.43"
             }
           ]
         },
@@ -1246,7 +1511,7 @@
             "source_url": "https://www.nptrust.org/reports/daf-report/"
           }
         ],
-        "notes": "Estimates are drawn from a longitudinal study of a representative sample from 995 charitable sponsors that reported DAF assets in any year."
+        "notes": "Estimates are drawn from a longitudinal study of a representative sample from more than 1,000 charitable sponsors that reported DAF assets in any year. We update past data for this indicator annually, because the National Philanthropic Trust revises its numbers each year as new data become available."
       },
       {
         "name": "Total number of DAFs in the United States",
@@ -1267,19 +1532,27 @@
             },
             {
               "date": "2018",
-              "value": "733.819"
+              "value": "861.327"
             },
             {
               "date": "2019",
-              "value": "891.961"
+              "value": "1569.236"
             },
             {
               "date": "2020",
-              "value": "1007.745"
+              "value": "1558.586"
             },
             {
               "date": "2021",
-              "value": "1285.801"
+              "value": "1882.665"
+            },
+            {
+              "date": "2022",
+              "value": "1771.709"
+            },
+            {
+              "date": "2023",
+              "value": "1782.281"
             }
           ]
         },
@@ -1289,7 +1562,7 @@
             "source_url": "https://www.nptrust.org/reports/daf-report/"
           }
         ],
-        "notes": "Estimates are drawn from a longitudinal study of a representative sample from 995 charitable sponsors that reported DAF assets in any year."
+        "notes": "Estimates are drawn from a longitudinal study of a representative sample from more than 1,000 charitable sponsors that reported DAF assets in any year. We update past data for this indicator annually, because the National Philanthropic Trust revises its numbers each year as new data become available."
       },
       {
         "name": "Share of DAF contributions made as noncash assets at Fidelity Charitable",
@@ -1331,6 +1604,14 @@
             {
               "date": "2022",
               "value": "57"
+            },
+            {
+              "date": "2023",
+              "value": "63"
+            },
+            {
+              "date": "2024",
+              "value": "67"
             }
           ]
         },
@@ -1366,16 +1647,24 @@
             {
               "date": "2021",
               "value": "7.1"
+            },
+            {
+              "date": "2022",
+              "value": "9.4"
+            },
+            {
+              "date": "2023",
+              "value": "10.7"
             }
           ]
         },
         "sources": [
           {
-            "source": "Candid",
-            "source_url": "https://annualsurvey.cfinsights.org/"
+            "source": "Council on Foundations",
+            "source_url": "https://cof.org/cfinsights/results/2023/funds"
           }
         ],
-        "notes": "Estimates are drawn from Candid’s Columbus Survey, a survey of nearly 200 community foundations in the US. In our July 2023 update, we changed the data source behind this indicator from the Community Foundation Awareness Initiative to Candid because it was not clear whether the former source’s survey would be continued."
+        "notes": "Estimates are drawn from the Council on Foundations’ CF Insights Annual Survey, a survey of nearly 200 community foundations in the US. In our July 2023 update, we changed the data source behind this indicator from the Community Foundation Awareness Initiative to Candid’s Columbus Survey (now administered by the Council on Foundations and called the CF Insights Annual Survey) because it was not clear whether the former source’s survey would be continued. (The Council on Foundations assumed ownership of CF Insights and the CF Insights Annual Survey on September 1, 2023.)"
       }
     ]
   },
@@ -1407,6 +1696,10 @@
             {
               "date": "2022",
               "value": "2.8"
+            },
+            {
+              "date": "2023",
+              "value": "3.2"
             }
           ]
         },
@@ -1450,13 +1743,17 @@
             {
               "date": "2022",
               "value": "70.6"
+            },
+            {
+              "date": "2023",
+              "value": "68.7"
             }
           ]
         },
         "sources": [
           {
             "source": "Office of Personnel Management (OPM)",
-            "source_url": "https://www.opm.gov/combined-federal-campaign/results-impact/"
+            "source_url": "https://givecfc.org/campaign-results"
           }
         ],
         "notes": "The Combined Federal Campaign is a federal workplace-giving campaign that enables federal employees and retirees to pledge monetary support to approved charities. Summary figures are released by the Office of Personnel Management and include aggregated pledges to charities by federal employees participating in the campaign. In our July 2023 update, we updated this indicator. The Office of Personnel Management removed the data for 2004–2015 from its website, so we have removed those years from this dashboard; it also added data for 2017–2022, and whereas previous versions of this dashboard used Workplace Giving Alliance data for those years, this version uses the OPM data because the OPM runs the Combined Federal Campaign."
@@ -1493,13 +1790,17 @@
             {
               "date": "2022",
               "value": "80.746"
+            },
+            {
+              "date": "2023",
+              "value": "74.931"
             }
           ]
         },
         "sources": [
           {
             "source": "Office of Personnel Management (OPM)",
-            "source_url": "https://www.opm.gov/combined-federal-campaign/results-impact/"
+            "source_url": "https://givecfc.org/campaign-results"
           }
         ],
         "notes": "The Combined Federal Campaign is a federal workplace-giving campaign that enables federal employees and retirees to pledge monetary support to approved charities. Summary figures are released by the Office of Personnel Management and include aggregated numbers of federal employee donors to charities through the campaign."
@@ -1585,16 +1886,28 @@
             {
               "date": "2021",
               "value": "8.9"
+            },
+            {
+              "date": "2022",
+              "value": "-0.08"
+            },
+            {
+              "date": "2023",
+              "value": "0.0"
+            },
+            {
+              "date": "2024",
+              "value": "2.2"
             }
           ]
         },
         "sources": [
           {
             "source": "Blackbaud",
-            "source_url": "https://institute.blackbaud.com/charitable-giving-report"
+            "source_url": "https://institute.blackbaud.com/resources/2024-trends"
           }
         ],
-        "notes": "Estimates are drawn from financial analysis of Blackbaud clients. The latest study was conducted from January to December 2021 and included 4,535 nonprofit organizations. The analysis does not include the unfulfilled proportions of pledged gifts or recurring gifts processed offline."
+        "notes": "Estimates are drawn from financial analysis of Blackbaud clients. The latest study asked about 2024 and included 5,151 nonprofit organizations. The analysis does not include the unfulfilled proportions of pledged gifts or recurring gifts processed offline."
       }
     ]
   },
@@ -1634,16 +1947,20 @@
             {
               "date": "2022",
               "value": "749"
+            },
+            {
+              "date": "2024",
+              "value": "275"
             }
           ]
         },
         "sources": [
           {
             "source": "Engage for Good",
-            "source_url": "https://engageforgood.com/meet-americas-charity-checkout-champions-2023/"
+            "source_url": "https://engageforgood.com/meet-americas-charity-checkout-champions-2025/"
           }
         ],
-        "notes": "Estimates are aggregated self-reported data from 76 fundraising campaigns that have raised at least $1,000,000."
+        "notes": "Estimates are aggregated self-reported data from various fundraising campaigns."
       },
       {
         "name": "Total donations to charities via Lyft’s Round Up and Donate program",
@@ -1712,6 +2029,10 @@
             {
               "date": "2022",
               "value": "163"
+            },
+            {
+              "date": "2023",
+              "value": "162"
             }
           ]
         },
@@ -1765,6 +2086,14 @@
             {
               "date": "2022",
               "value": "38"
+            },
+            {
+              "date": "2023",
+              "value": "49"
+            },
+            {
+              "date": "2024",
+              "value": "786"
             }
           ]
         },
@@ -1840,26 +2169,77 @@
             },
             {
               "date": "2010",
-              "value": "61"
+              "value": "62"
             },
             {
               "date": "2012",
               "value": "59"
             },
             {
+              "date": "2014",
+              "value": "56"
+            },
+            {
               "date": "2016",
-              "value": "53"
+              "value": "54"
             },
             {
               "date": "2018",
-              "value": "50"
+              "value": "51"
+            },
+            {
+              "date": "2020",
+              "value": "47"
             }
           ]
         },
         "sources": [
           {
             "source": "Indiana University Lilly Family School of Philanthropy",
-            "source_url": "https://scholarworks.iupui.edu/handle/1805/26290"
+            "source_url": "https://scholarworks.indianapolis.iu.edu/items/a121da67-40d9-4a03-a942-4b747a97b404"
+          }
+        ],
+        "notes": "These data are from the Indiana University Lilly Family School of Philanthropy’s Philanthropy Panel Study (PPS), which is a module of the University of Michigan’s Panel Study of Income Dynamics. The PPS is a biennial survey that collects data in odd years about behaviors in even years (e.g., the 2019 wave of the PPS was collected in 2019 about giving in 2018), with a sample size of 7,000 to 9,000 per wave. The PPS limits questions about giving to households that gave at least $25. Therefore, individuals or households that donated between $1 and $24 are marked as nondonors in the PPS data. In our December 2024 update, we revised the percentages for 2010, 2016, and 2018 because the Indiana University Lilly Family School of Philanthropy revised those percentages in its PPS data."
+      },
+      {
+        "name": "Share of US households that reported giving money directly to individuals the previous year",
+        "data": {
+          "unit": "%",
+          "unit_string": "",
+          "trend_label": "percent",
+          "date_format": "%Y",
+          "significant_figures": "0",
+          "values": [
+            {
+              "date": "2010",
+              "value": "12.8"
+            },
+            {
+              "date": "2012",
+              "value": "12.5"
+            },
+            {
+              "date": "2014",
+              "value": "10.8"
+            },
+            {
+              "date": "2016",
+              "value": "10.4"
+            },
+            {
+              "date": "2018",
+              "value": "11.9"
+            },
+            {
+              "date": "2020",
+              "value": "8.2"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "source": "Indiana University Lilly Family School of Philanthropy",
+            "source_url": "https://scholarworks.indianapolis.iu.edu/items/a121da67-40d9-4a03-a942-4b747a97b404"
           }
         ],
         "notes": "These data are from the Indiana University Lilly Family School of Philanthropy’s Philanthropy Panel Study (PPS), which is a module of the University of Michigan’s Panel Study of Income Dynamics. The PPS is a biennial survey that collects data in odd years about behaviors in even years (e.g., the 2019 wave of the PPS was collected in 2019 about giving in 2018), with a sample size of 7,000 to 9,000 per wave. The PPS limits questions about giving to households that gave at least $25. Therefore, individuals or households that donated between $1 and $24 are marked as nondonors in the PPS data."
@@ -1920,6 +2300,76 @@
         "notes": "Estimates rely on telephone interviews conducted by pollsters with a random sample of more than 1,000 adults living in all 50 states and the District of Columbia. Respondents were asked separately about donating money and volunteering time to charitable organizations. In our November 29, 2022 update, we corrected the 2008 data point, which we had rounded incorrectly. We corrected it from 83 percent to 82 percent. We also removed the 2014 data point, which was not included in the source."
       },
       {
+        "name": "Share of Americans who gave money in the past year",
+        "data": {
+          "unit": "%",
+          "unit_string": "",
+          "trend_label": "percent",
+          "date_format": "%Y",
+          "significant_figures": "0",
+          "values": [
+            {
+              "date": "2021",
+              "value": "59"
+            },
+            {
+              "date": "2022",
+              "value": "56"
+            },
+            {
+              "date": "2023",
+              "value": "59"
+            },
+            {
+              "date": "2024",
+              "value": "50"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "source": "GivingTuesday Data Commons",
+            "source_url": "https://www.givingtuesday.org/data-commons"
+          }
+        ],
+        "notes": "Estimates are based on GivingTuesday’s Global Omnibus Survey, an annual online survey of giving behaviors run in seven countries (including the US). The sample size of 1,000 is weighted by age, gender, and US region of residence. The data capture giving to a range of recipients, including (1) registered charitable or nonprofit organizations, (2) organized and structured but unregistered entities, and (3) unstructured community groups and individuals. In January 2024, we updated the data source from the GivingTuesday Giving Lab to the GivingTuesday Data Commons."
+      },
+      {
+        "name": "Share of Americans who gave items in the past year",
+        "data": {
+          "unit": "%",
+          "unit_string": "",
+          "trend_label": "percent",
+          "date_format": "%Y",
+          "significant_figures": "0",
+          "values": [
+            {
+              "date": "2021",
+              "value": "67"
+            },
+            {
+              "date": "2022",
+              "value": "63"
+            },
+            {
+              "date": "2023",
+              "value": "69"
+            },
+            {
+              "date": "2024",
+              "value": "62"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "source": "GivingTuesday Data Commons",
+            "source_url": "https://www.givingtuesday.org/data-commons"
+          }
+        ],
+        "notes": "Estimates are based on GivingTuesday’s Global Omnibus Survey, an annual online survey of giving behaviors run in seven countries (including the US). The sample size of 1,000 is weighted by age, gender, and US region of residence. The data capture giving to a range of recipients, including (1) registered charitable or nonprofit organizations, (2) organized and structured but unregistered entities, and (3) unstructured community groups and individuals. In January 2024, we updated the data source from the GivingTuesday Giving Lab to the GivingTuesday Data Commons."
+      },
+      {
         "name": "Percentage change in total number of donors from previous year",
         "data": {
           "unit": "%",
@@ -1959,6 +2409,14 @@
             {
               "date": "2022",
               "value": "-10.0"
+            },
+            {
+              "date": "2023",
+              "value": "-3.4"
+            },
+            {
+              "date": "2024",
+              "value": "-4.5"
             }
           ]
         },
@@ -1968,7 +2426,7 @@
             "source_url": "https://afpglobal.org/FundraisingEffectivenessProject"
           }
         ],
-        "notes": "Estimates of total donors were calculated by the Fundraising Effectiveness Project using anonymized giving transaction data from a variety of donor software, such as Bloomerang, DonorPerfect, and Neon CRM. The most recent complete annual calculations (2022) are drawn from a random representative sample of 8,816 nonprofit organizations."
+        "notes": "Estimates of total donors were calculated by the Fundraising Effectiveness Project using anonymized giving transaction data from a variety of donor software, such as Bloomerang, DonorPerfect, and Neon CRM. The most recent complete annual calculations (2023) are drawn from a random representative sample of 8,103 nonprofit organizations."
       },
       {
         "name": "Donor retention rate",
@@ -2006,6 +2464,14 @@
             {
               "date": "2022",
               "value": "42.6"
+            },
+            {
+              "date": "2023",
+              "value": "42.2"
+            },
+            {
+              "date": "2024",
+              "value": "42.9"
             }
           ]
         },
@@ -2016,39 +2482,6 @@
           }
         ],
         "notes": "Estimates are provided by the AFP/Fundraising Effectiveness Project. The project defines the donor retention rate as “the number of donors last year who gave again this year, divided by the total number of donors last year.”"
-      }
-    ]
-  },
-  {
-    "name": "Mutual aid",
-    "description": "Mutual aid has a long tradition and has been defined in many ways, but at its root, it entails a group, often unincorporated, providing assistance to meet the immediate needs of its neighbors.",
-    "measures": [
-      {
-        "name": "Number of donations made to mutual aid networks through the ioby crowdfunding platform",
-        "data": {
-          "unit": "K",
-          "unit_string": "In thousands of donations",
-          "trend_label": "networks",
-          "date_format": "%Y",
-          "significant_figures": "1",
-          "values": [
-            {
-              "date": "2020",
-              "value": "11.410"
-            },
-            {
-              "date": "2021",
-              "value": "5.289"
-            }
-          ]
-        },
-        "sources": [
-          {
-            "source": "ioby",
-            "source_url": "https://ioby.org/"
-          }
-        ],
-        "notes": "Estimates are pulled from raw data provided by ioby, a crowdfunding platform. Because the 2020 estimate only contains data from March through December of that year, the comparison with 2021 is incomplete, but we include it to contextualize change over time. The totals do not include matched contributions made by ioby."
       }
     ]
   },
@@ -2084,16 +2517,36 @@
             {
               "date": "Jun '23",
               "value": "3.921"
+            },
+            {
+              "date": "Nov '23",
+              "value": "4.612"
+            },
+            {
+              "date": "May '24",
+              "value": "3.980"
+            },
+            {
+              "date": "Nov '24",
+              "value": "5.279"
+            },
+            {
+              "date": "Apr '25",
+              "value": "5.373"
+            },
+            {
+              "date": "Jun '25",
+              "value": "5.427"
             }
           ]
         },
         "sources": [
           {
-            "source": "Philanthropy Together Dashboard",
-            "source_url": "https://philanthropytogether.org/directory"
+            "source": "Global Giving Circle Directory",
+            "source_url": "https://www.grapevine.org/giving-circle-directory"
           }
         ],
-        "notes": "These estimates were pulled from Philanthropy Together’s Global Giving Circle Directory during the months indicated. The Global Giving Circle Directory is a searchable directory of giving circles created by Philanthropy Together, a global initiative to promote giving circles."
+        "notes": "These estimates were pulled from the Global Giving Circle Directory, a collaboration between Grapevine and Philanthropy Together. The Global Giving Circle Directory is a searchable directory of giving circles."
       }
     ]
   },
@@ -2129,6 +2582,10 @@
             {
               "date": "2022",
               "value": "25"
+            },
+            {
+              "date": "2023",
+              "value": "30"
             }
           ]
         },
@@ -2230,6 +2687,14 @@
             {
               "date": "2021",
               "value": "186.858690"
+            },
+            {
+              "date": "2022",
+              "value": "152.753848"
+            },
+            {
+              "date": "2023",
+              "value": "190.600548 "
             }
           ]
         },
@@ -2271,16 +2736,24 @@
             {
               "date": "2022",
               "value": "3.1"
+            },
+            {
+              "date": "2023",
+              "value": "3.1"
+            },
+            {
+              "date": "2024",
+              "value": "3.6"
             }
           ]
         },
         "sources": [
           {
-            "source": "GivingTuesday Data Collaborative",
-            "source_url": "https://www.givingtuesday.org/about/impact/"
+            "source": "GivingTuesday Data Commons",
+            "source_url": "https://www.givingtuesday.org/data-commons"
           }
         ],
-        "notes": "Estimates are based on the GivingTuesday Data Collaborative’s statistical model that estimates online and offline giving."
+        "notes": "Estimates are based on the GivingTuesday Data Collaborative’s statistical model that estimates online and offline giving. In January 2024, we updated the data source from the GivingTuesday Data Collaborative to the GivingTuesday Data Commons."
       },
       {
         "name": "Total US online donations made on GivingTuesday",
@@ -2314,16 +2787,47 @@
             {
               "date": "2022",
               "value": "6.4"
+            },
+            {
+              "date": "2023",
+              "value": "5.1"
             }
           ]
         },
         "sources": [
           {
-            "source": "GivingTuesday Data Collaborative",
-            "source_url": "https://www.givingtuesday.org/about/impact/"
+            "source": "GivingTuesday Data Commons",
+            "source_url": "https://www.givingtuesday.org/data-commons"
           }
         ],
-        "notes": "Estimates are based on the GivingTuesday Data Collaborative’s aggregation of transaction data from its network of platform reports each year. In our November 29, 2022 update, we corrected the unit value from “dollar value of donations” to “Number of donations.”"
+        "notes": "Estimates are based on the GivingTuesday Data Collaborative’s aggregation of transaction data from its network of platform reports each year. In our November 29, 2022 update, we corrected the unit value from “dollar value of donations” to “Number of donations.” In January 2024, we updated the data source from the GivingTuesday Data Collaborative to the GivingTuesday Data Commons."
+      },
+      {
+        "name": "Average amount of money raised by nonprofits during the last three days of the year",
+        "data": {
+          "unit": "K",
+          "unit_string": "In thousands of dollars ($)",
+          "trend_label": "thousand",
+          "date_format": "%Y",
+          "significant_figures": "1",
+          "values": [
+            {
+              "date": "2021",
+              "value": "7.32"
+            },
+            {
+              "date": "2022",
+              "value": "6.28"
+            }
+          ]
+        },
+        "sources": [
+          {
+            "source": "Neon One",
+            "source_url": "https://neonone.com/resources/nonprofit-email-report"
+          }
+        ],
+        "notes": "Averages are based on email campaigns sent by 37,472 Neon One clients during the last three days of the year."
       }
     ]
   }

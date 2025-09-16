@@ -259,7 +259,32 @@ Promise.all([
     .attr("class", "x-axis")
     .attr("transform", "translate(0," + height + ")")
     .each(function(d, i){
-      d3.select(this).call(d.xAxis);
+      d3.select(this).call(d.xAxis)
+      .selectAll(".x-axis .tick text") // select all the x tick texts
+      .call(function (t) {
+        t.each(function () {
+          // for each one
+          var self = d3.select(this);
+          var s = self.text().split(" "); // get the text and split it
+          if(s.length > 1) { // if there is a space (years don't have spaces)
+            self.text(""); // clear it out
+            self // insert two tspans with same dy/style
+              .append("tspan") // one on regular line
+              .attr("x", 0)
+              .attr("y", 9)
+              .attr("dy", ".71em")
+              .style("font-size", "14px")
+              .text(s[0]);
+            self
+              .append("tspan") // one below
+              .attr("x", 0)
+              .attr("dy", ".71em")
+              .attr("y", 24)
+              .style("font-size", "14px")
+              .text(s[1]);
+          }
+        });
+      });
     });
 
   g.append("path")
